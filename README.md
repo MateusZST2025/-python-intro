@@ -11,10 +11,8 @@ Repozytorium zawiera rozwiązania zadań z przedmiotu **Programowanie zaawansowa
 - **Numer albumu:** 154201  
 - **Rok studiów:** II  
 - **Semestr:** IV  
-- **Kierunek:** [Tu wpisz kierunek, np. Informatyka / Automatyka i Robotyka]  
-- **Uczelnia:** [Tu wpisz nazwę uczelni, np. Politechnika XYZ]  
+- **Kierunek:** Informatyka   
+- **Uczelnia:** WSB Merito Szczecin
 
----
 
-## 📂 Struktura repozytorium
 
